@@ -1,0 +1,98 @@
+body
+{
+background-color: #2F3336;
+color: #efefef;
+font-family: 'Open Sans', sans-serif;
+font-size: 17px;
+}
+
+.navbar
+{
+min-height: 57px;
+}
+.bg-pasek
+{
+background-color: rgb(46, 141, 185)!important;
+}
+.container
+{
+width: 1200px;
+height: 600px;
+margin-left: auto;
+margin-right: auto;
+background-color: rgb(46, 141, 185);
+margin-top: 50px;
+border-radius: 12px;
+}
+#tytul{
+clear: both;
+padding: 20px;
+margin-bottom: -5px;
+}
+.input-group{
+	
+	height: 50px;
+	
+}
+.btn-outline-secondary
+{
+	background-color: rgb(158, 158, 158);
+	color:white;
+}
+#lista{
+cursor: pointer;
+padding: 10px 5px 10px 40px;
+background: #eee;
+font-size: 18px;
+transition: 0.2s;
+border-radius: 12px;
+color: black;
+list-style-type: none;
+margin-right: 70px;
+}
+#dozrobienia{
+margin-right: auto;
+margin-left: auto;
+}
+.navbar-brand
+{
+font-size: 20px;
+font-weight: bold;
+}
+#zegar
+{
+text-align: center;
+font-size: 100px;
+}
+#czas-nav
+{
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+	
+}
+#startstop
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 127px;
+	
+}
+#center
+{
+	padding-top: 150px;
+	margin-bottom: auto;
+}
+.timer
+{
+	text-align: center;
+	padding-top: 0px;
+	font-size: 130px;
+	height: 90%;
+	padding-bottom: 50px;
+	
+}
+#js-btn{
+	font-size: 50px;	
+}
